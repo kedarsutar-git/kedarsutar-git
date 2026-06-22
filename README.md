@@ -1,5 +1,19 @@
 # 💫 About Me:
-I’m kedar Sutar currently working on Machine Learning, AI Chatbots, and Data Analysis projects<br>I’m looking to collaborate on AI, gen AI ,Machine Learning  and Open Source projects<br>I’m looking for help with Advanced Machine Learning , Deep Learning, Data Science<br>I’m currently learning Data Science, Machine Learning, Deep Learning, Generative AI, DSA<br>Ask me about Python, SQL , Machine Learning, Deep Learning, genAI<br>Fun fact: I enjoy building real-world AI projects and turning ideas into smart solutions
+
+
+I am **Kedar Sutar**, an aspiring **AI and Machine Learning Engineer** with a strong interest in developing intelligent solutions through **Machine Learning, Generative AI, and Data Analytics**.
+
+* Currently working on projects involving **Machine Learning, AI Chatbots, and Data Analysis**.
+* Open to collaborating on **Artificial Intelligence, Generative AI, Machine Learning, and Open-Source Projects**.
+* Actively seeking opportunities to learn and contribute to **Advanced Machine Learning, Deep Learning, Data Science, and Generative AI** initiatives.
+* Continuously expanding my knowledge in **Data Science, Machine Learning, Deep Learning, Generative AI, and Data Structures & Algorithms (DSA)**.
+* Regularly solving **LeetCode** problems to enhance problem-solving abilities and strengthen algorithmic thinking.
+* Skilled in **Python, SQL, Machine Learning, Deep Learning, and Generative AI** concepts.
+* Passionate about building **real-world AI applications** and transforming innovative ideas into impactful solutions.
+
+### Interests
+
+Artificial Intelligence • Machine Learning • Deep Learning • Generative AI • Data Science • Open Source Development
 
 
 ## 🌐 Socials:
