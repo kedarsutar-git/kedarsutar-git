@@ -26,6 +26,10 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 ![](https://streak-stats.demolab.com/?user=kedarsutar-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kedarsutar-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 Contribution Graph
+
+[![Kedar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kedarsutar-git&theme=github-compact)](https://github.com/kedarsutar-git)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kedarsutar-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -45,14 +49,6 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
 
-## 📈 Contribution Graph
 
-[![Kedar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kedarsutar-git&theme=github-compact)](https://github.com/kedarsutar-git)
 
-## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kedarsutar-git&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kedarsutar-git&theme=dark)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kedarsutar-git&theme=github-compact)](https://github.com/kedarsutar-git)
