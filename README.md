@@ -25,7 +25,7 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 ![](https://github-readme-stats.shion.dev/api?username=kedarsutar-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kedarsutar-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kedarsutar-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kedarsutar-git&theme=dark)](https://git.io/streak-stats)
 ## 📈 Contribution Graph
 
 [![Kedar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kedarsutar-git&theme=github-compact)](https://github.com/kedarsutar-git)
@@ -49,4 +49,4 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kedarsutar-git&theme=dark)](https://git.io/streak-stats)
+
