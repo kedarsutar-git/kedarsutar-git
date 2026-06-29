@@ -36,11 +36,11 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/kedar-sutar?theme=dark&font=Karma&ext=contest" />
 </p>
 
-## 📈 LeetCode Heatmap
+## 📈 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
