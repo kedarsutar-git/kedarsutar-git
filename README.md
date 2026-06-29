@@ -33,3 +33,14 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 [![](https://komarev.com/ghpvc/?username=kedarsutar-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
+</p>
+
+## 📈 LeetCode Heatmap
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
+</p>
