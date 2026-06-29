@@ -49,3 +49,4 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kedarsutar-git)](https://git.io/streak-stats)
