@@ -49,6 +49,4 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 
 [![Kedar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kedarsutar-git&theme=github-compact)](https://github.com/kedarsutar-git)
 
-## 📊 GitHub Stats
 
-![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedarsutar-git&show_icons=true&theme=dark)
