@@ -44,3 +44,7 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
+
+## 📈 Contribution Graph
+
+[![Kedar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kedarsutar-git&theme=github-compact)](https://github.com/kedarsutar-git)
