@@ -49,6 +49,3 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 
 [![Kedar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kedarsutar-git&theme=github-compact)](https://github.com/kedarsutar-git)
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/kedarsutar-git/kedarsutar-git/blob/output/github-contribution-grid-snake.svg)
