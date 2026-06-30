@@ -30,8 +30,6 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 
 [![Kedar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kedarsutar-git&theme=github-compact)](https://github.com/kedarsutar-git)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kedarsutar-git)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://komarev.com/ghpvc/?username=kedarsutar-git&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -47,6 +45,8 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
 
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/kedarsutar-git/kedarsutar-git/blob/output/github-contribution-grid-snake-dark.svg)
 
 
