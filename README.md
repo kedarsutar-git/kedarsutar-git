@@ -45,8 +45,5 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/kedarsutar-git/kedarsutar-git/blob/output/github-contribution-grid-snake-dark.svg)
 
 
