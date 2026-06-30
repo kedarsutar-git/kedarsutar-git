@@ -49,4 +49,6 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
 
+## 📅 LeetCode Calendar
 
+![LeetCode Calendar](https://leetcode.card.workers.dev/kedar-sutar?theme=dark&font=baloo&extension=null)
