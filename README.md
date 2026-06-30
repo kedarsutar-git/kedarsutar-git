@@ -39,9 +39,7 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💻 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kedar-sutar?theme=dark&font=Karma&ext=contest" />
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/kedar-sutar?theme=dark&font=Baloo&ext=heatmap)
 
 ## 📈 LeetCode Activity
 
@@ -49,6 +47,6 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kedar-sutar&theme=dark" />
 </p>
 
-## 📅 LeetCode Heatmap
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kedar-sutar?theme=dark&font=Baloo&ext=heatmap)
+
+
